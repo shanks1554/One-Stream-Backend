@@ -1,0 +1,11 @@
+# API
+fastapi
+uvicorn[standard]
+
+# ML
+pandas
+numpy
+scikit-learn
+
+# Other
+python-multipart
